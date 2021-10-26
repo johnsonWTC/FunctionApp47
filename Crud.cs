@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace FunctionApp46
+namespace FunctionApp47
 {
     public class Crud : ICrud
     {
