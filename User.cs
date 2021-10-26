@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace FunctionApp46
+namespace FunctionApp47
 {
    public class User
     {
